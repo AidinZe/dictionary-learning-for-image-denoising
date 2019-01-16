@@ -5,4 +5,4 @@ dictionary learning for image denoising
 * numpy
 * sicpy
 * matplotlib
-#:-)
+# :-)
